@@ -1,8 +1,6 @@
 
 <script>
 
-    let färg = blå
-
     import {Dumbbell, Clock3, ChartColumn, Footprints, Bike, Waves, Plus, Trash2, Pencil, Timer, X} from "lucide-svelte";
 
     import{onMount} from "svelte"
